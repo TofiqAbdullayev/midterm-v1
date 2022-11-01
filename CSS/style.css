@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300;400&display=swap');
+*{
+    margin: 0;
+}
+.half1{
+    position: relative;
+        background-repeat: no-repeat;
+    background-size: cover;
+    width: 1400px;
+    height: 760px;
+}
+.crown{
+    position: absolute;
+    color: #27AE60;
+    left: 145px;
+    top: 45px;
+    border-radius: 0px;
+    font-size: 23px;
+    font-weight: 700;
+    font-family: 'Zilla Slab', serif;
+}
+.haqqimizda{
+    position: absolute;
+    top: 46px;
+    left: 430px;
+    font-family: 'Zilla Slab', serif;
+}
+.mehsullar{
+    position: absolute;
+    top: 46px;
+    left: 555px;
+    font-family: 'Zilla Slab', serif;
+}
+.reseptler{
+    position: absolute;
+    top: 46px;
+    left: 665px;
+    font-family: 'Zilla Slab', serif;
+}
+.bizimleelaqe{
+    position: absolute;
+    top: 46px;
+    left: 770px;
+    font-family: 'Zilla Slab', serif;
+}
+.az{
+    position: absolute;
+    top: 46px;
+    left: 903px;
+    font-family: 'Zilla Slab', serif;
+}
+.qqq{
+    position: absolute;
+    background-image: url(../Images/qus.png);
+    height: 8px;
+    width: 11px;
+    left: 925px;
+    top: 53px;
+    border-radius: 0px;
+    cursor: pointer;
+}
+.goy{
+    position: absolute;
+    background-image: url(../Images/goy.png);
+    width: 305px;
+    height: 83px;
+    background-repeat: no-repeat;
+    right: -1px;
+}
+.text1{
+    color: white;
+    font-family: Zilla Slab;
+    height: 34px;
+    width: 102px;
+    left: 17px;
+    top: 23px;
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 1px;
+    text-align: left;
+    font-family: 'Zilla Slab', serif;
+}
+.tac{  
+    background-image: url(../Images/Vector.png);
+    width: 41px;
+    height: 15px;
+    position: absolute;
+    top: 31px;
+    left: 197px;
+   }
+.xet{  
+    background-image: url(../Images/Line\ 24.png);
+    position: absolute;
+    width: 700px;
+    height: 1px;
+    top: 76px;
+    left: 429px;
+   }
+.img{
+    position: absolute;
+    background-image: url(../Images/Frame.png);
+    width: 54px;
+    height: 29px;
+    top: 26px;
+    left: 127px;
+}
+.skl{
+    position: absolute;
+    background-image: url(../Images/orta.png);
+    width: 1110px;
+    height: 300px;
+    left: 145px;
+    top: 113px;
+}
+.yazi{
+    position: absolute;
+    width: 690px;
+    height: 104px;
+    left: 176px;
+    top: 113px;
+    font-family: 'Zilla Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 138%;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #27AE60;
+}
+.yazi2{
+    position: absolute;
+    width: 690px;
+    height: 104px;
+    left: 176px;
+    top: 166px;
+    font-family: 'Zilla Slab';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 138%;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #494949;
+}
+.xet2{
+    background-image: url(../Images/Lineq);
+    position: absolute;
+    width: 1110px;
+    height: 0px;
+    left: 145px;
+    top: 443px;
+    border: 1px dashed #CECECE;
+}
+.a{
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    left: 145px;
+    top: 478px;
+    background: linear-gradient(180deg, rgba(28, 28, 28, 0) 40.37%, #000000 100%);
+    border-radius: 15px;
+    background-image: url(../Images/a.png);
+}
+.b{
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    left: 525px;
+    top: 478px;
+    background: linear-gradient(180deg, rgba(28, 28, 28, 0) 40.37%, #000000 100%);
+    border-radius: 15px;
+    background-image: url(../Images/b.png);
+}
+.c{
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    left: 905px;
+    top: 478px;
+    background: linear-gradient(180deg, rgba(28, 28, 28, 0) 40.37%, #000000 100%);
+    border-radius: 15px;
+    background-image: url(../Images/c.png);
+}
+.d{
+    position: absolute;
+    width: 350px;
+    height: 381px;
+    left: 145px;
+    top: 927px;
+    background: linear-gradient(180deg, rgba(28, 28, 28, 0) 40.37%, #000000 100%);
+    border-radius: 15px;
+    background-image: url(../Images/d.png);
+}
+.e{
+    position: absolute;
+    width: 350px;
+    height: 375px;
+    left: 525px;
+    top: 933px; 
+    background: linear-gradient(180deg, rgba(28, 28, 28, 0) 40.37%, #000000 100%);
+    border-radius: 15px;
+    background-image: url(../Images/e.png);
+}
+.f{
+    position: absolute;
+    width: 350px;
+    height: 381px;
+    left: 905px;
+    top: 927px;
+    background: linear-gradient(180deg, rgba(28, 28, 28, 0) 40.37%, #000000 100%);
+    border-radius: 15px;
+    background-image: url(../Images/f.png);
+}
